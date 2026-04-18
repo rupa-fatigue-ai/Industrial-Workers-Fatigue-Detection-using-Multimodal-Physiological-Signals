@@ -541,23 +541,12 @@ Reduce `CGAN_BATCH` in `training.py` or use `--skip_cgan`.
 ---
 
 ##  Author
-Dr. Sanchita Paul \
-Dr. Rishabh Raj \
-Birla Institute of Technology  
+Sanchita Paul \
+Rupa Verma \
+Department of Computer Science Engineering, Birla Institute of Technology, Mesra, Ranchi, Jharkhand
 
 This work is part of a study on:
 
 **Industrial Worker Fatigue Detection Using Multimodal Physiological and Environmental Signals**
 
-
 ---
-
-##  Contributing
-
-Contributions are welcome. Please fork the repo and submit a pull request.
-
----
-
-##  License
-
-MIT License
